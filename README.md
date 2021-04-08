@@ -2,7 +2,6 @@
 - 👀 I’m interested in Java/Javascript/React/Spring/.NET Core Web Applications
 - 🌱 I’m currently learning Microservices and related tech.
 - 💞️ I’m looking to collaborate on Tech that is potentially core to multiple microservices to work.
-- 📫 How to reach me kashinathpai@gmail.com
 
 <!---
 rs-kp/rs-kp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
